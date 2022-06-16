@@ -5,7 +5,7 @@
  Nordstrom Rack launched in 2018. If you've never ventured into a Nordstrom location, the department store is renown for its collection of high-end fashion, homewares, and accessories.
 
 # 2. Tech stack used:
-We used ReactJS Redux HTML and CSS for building this website.
+I used ReactJS Redux HTML and CSS for building this website.
 
 # 3. Website images
 ![1](https://user-images.githubusercontent.com/96121369/174111861-39f3c441-0d27-48ea-9375-ab54774ab3f9.png)
