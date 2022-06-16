@@ -1,4 +1,4 @@
-# Nord-clone
+# Nordstrom-clone
 
 # 1. About the website:
 
