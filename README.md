@@ -14,4 +14,5 @@ I used ReactJS Redux HTML and CSS for building this website.
 ![4](https://user-images.githubusercontent.com/96121369/174111896-8e42e421-ec20-4d01-8f58-dcb20fe1b1f3.png)
 ![5](https://user-images.githubusercontent.com/96121369/174111900-68918c8c-5e2b-4007-afa0-8c20735a1cf6.png)
 
+# 4.Blog Link :https://medium.com/@kameshpavi97/building-a-clone-of-the-nordstrom-rack-website-31914e6a73e9
  
